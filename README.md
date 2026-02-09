@@ -12,5 +12,5 @@
 <p align="center">
   My work runs on caffeine ☕.
   Help me keep the lights on!<br><br>
-  <a href="https://www.buymeacoffee.com/dion_jy"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"></a>
+  <a href="https://paypal.me/JunyeobBaek"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"></a>
 </p>
